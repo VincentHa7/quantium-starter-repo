@@ -1,0 +1,54 @@
+/* Main container styling */
+.main-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0 auto;
+}
+
+/* Header styling */
+.header-title {
+    text-align: center;
+    color: #4a90e2;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+/* Intro text styling */
+.intro-text {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Filter container styling */
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;  /* Aligns the content to the start */
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+}
+
+/* Region radio items styling */
+.region-radio {
+    display: inline-block;
+    margin-top: 10px;  /* Add some space above the radio buttons */
+}
+
+/* Label Styling */
+.filter-label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;  /* Space below the label */
+}
+
+/* Graph container styling */
+.graph-container {
+    margin-top: 30px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+}
